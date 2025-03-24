@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"code/","text":"","title":"Code"},{"location":"component/","text":"","title":"Component"},{"location":"container/","text":"","title":"Container"},{"location":"context/","text":"","title":"Context"}]}
